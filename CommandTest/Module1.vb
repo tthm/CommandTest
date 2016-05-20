@@ -1,6 +1,8 @@
 ﻿Module Module1
 
     Sub Main()
+        'おためし変更
+
         'Processオブジェクトを作成
         Dim p As New System.Diagnostics.Process()
 
